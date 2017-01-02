@@ -1,0 +1,13 @@
+{
+  "name": "simple-notes-node-app",
+  "version": "1.0.0",
+  "description": "Simple Node app to use as example in Node Training",
+  "main": "app.js",
+  "repository": "https://github.com/WendellAdriel/simple-notes-node-app",
+  "author": "Wendell Adriel <contact@wendelladriel.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^6.6.0"
+  }
+}
